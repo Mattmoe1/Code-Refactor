@@ -2,7 +2,7 @@ Code Refactor Project
 https://mattmoe1.github.io/Code-Refactor/
 The Purpose of this project was to fix up the code and write it in a cleaner format to help others out.
 
-<img src= "images/Code%20Refactor.png" width="800">
+<img src= ".assets/images/Code%20Refactor.png" width="800">
 
 
 # 01 HTML CSS Git: Code Refactor
